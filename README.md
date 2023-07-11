@@ -7,3 +7,4 @@ This repository will help u develop with levels.
 
 
 ![download](https://github.com/JustCallMeSidd/PythonCheatsheet/assets/104370770/6ae61ff7-c728-4033-984e-e78d9d616e14)
+![images](https://github.com/JustCallMeSidd/PythonCheatsheet/assets/104370770/41c58ff0-acdf-4919-99cc-8e5183f7131c)
